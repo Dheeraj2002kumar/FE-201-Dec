@@ -257,3 +257,4 @@ class CarClass {
 
 const car1 = new CarClass("red", "hjdsjb", "Diesel");
 console.log(car1.start());
+
