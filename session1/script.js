@@ -31,7 +31,6 @@ console.log("Session 1");
 
 // class
 
-
 // const obj = {
 //     name: 'Alok',
 //     qualification: 'Engineer',
